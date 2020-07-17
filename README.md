@@ -1,7 +1,7 @@
 # Colorization Project List
 Collect the sources codes and projects that colorizing old black and white photos
 
-## Siggraph2016——colorization
+## Siggraph2016-colorization
 Colorization project from Satoshi lizuka, Edgar Simo-Serra, Hiroshi Ishikawa. This project uses a deep network to train AI and let the system to learn how to color grayscale images automatically.
 
 Git Project：https://github.com/satoshiiizuka/siggraph2016_colorization
